@@ -1,0 +1,20 @@
+@media (max-width: 900px) {
+    body{
+        padding: 1.5rem;
+    }
+    .container{
+        text-align: center;
+    }
+    .card_container{
+        display: flex;
+        flex-direction: column;
+    }
+    .main_paragh{
+        width: 20rem;
+    }
+    .heading_container{
+        font-size: 500;
+        font-size: 1.6rem;
+        width: 24rem;
+    }
+}
