@@ -21,4 +21,4 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click Here](https://github.com/Jinzero10/Four-Card-Component.git)
-- Live Site URL: [Click here](https://your-live-site-url.com)
+- Live Site URL: [Click here](https://four-card-jin.netlify.app/)
